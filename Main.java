@@ -15,6 +15,7 @@ class Main {
     t1.moveUp(35);
     t1.moveRight(75);
     t1.moveDown(35);
+    t1.moveRight(75);
 
     // 3. Can you write the first letter of your name by moving the turtle?
     // yes, this is impossible to make a curve.
